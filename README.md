@@ -7,7 +7,7 @@
 AI backend developer who turns model experiments into running services.
 
 > current_stack
-APIs | data pipelines | model serving | cloud deployments | smart factory AI
+Rust services | Python AI pipelines | model serving | cloud deployments | smart factory AI
 ```
 
 <a href="https://github.com/hscho0048">
@@ -20,6 +20,8 @@ APIs | data pipelines | model serving | cloud deployments | smart factory AI
 
 <br/>
 
+<img src="https://img.shields.io/badge/Main-Rust-0F172A?style=flat-square&labelColor=F97316&logo=Rust&logoColor=0F172A" alt="Rust main language" />
+<img src="https://img.shields.io/badge/Main-Python-0F172A?style=flat-square&labelColor=3776AB&logo=Python&logoColor=FFFFFF" alt="Python main language" />
 <img src="https://img.shields.io/badge/Focus-AI%20Backend-0F172A?style=flat-square&labelColor=22C55E&logo=OpenAI&logoColor=0F172A" alt="AI Backend" />
 <img src="https://img.shields.io/badge/Infra-Cloud%20Native-0F172A?style=flat-square&labelColor=38BDF8&logo=Docker&logoColor=0F172A" alt="Cloud Native" />
 <img src="https://img.shields.io/badge/Domain-Smart%20Factory-0F172A?style=flat-square&labelColor=F97316&logo=Databricks&logoColor=0F172A" alt="Smart Factory" />
@@ -101,22 +103,44 @@ LLM workflow integration
 
 ## Tech Stack
 
+<h3>Main Languages</h3>
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript,fastapi,spring,nodejs,react,flutter,docker,aws,gcp,postgres,githubactions&amp;perline=8&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript,fastapi,spring,nodejs,react,flutter,docker,aws,gcp,postgres,githubactions&amp;perline=8&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript,fastapi,spring,nodejs,react,flutter,docker,aws,gcp,postgres,githubactions&amp;perline=8&amp;theme=light" alt="Tech stack icons" />
-  </picture>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
 </p>
 
-| Layer | Tools |
-| --- | --- |
-| Backend | `FastAPI` `Spring Boot` `Axum` `Express` `Node.js` |
-| Languages | `Python` `Java` `Rust` `JavaScript` `SQL` |
-| AI and Data | `PyTorch` `TensorFlow` `OpenAI` `YOLO` `Pandas` |
-| Frontend and App | `React` `React Native` `Flutter` `Tailwind CSS` `Figma` |
-| Cloud and DevOps | `AWS` `Amazon S3` `GCP` `Cloud Run` `Docker` `Vercel` |
-| Automation and Testing | `Selenium` `GitHub Actions` `Swagger` |
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Axum-0F172A?style=flat-square&logo=Rust&logoColor=white" alt="Axum" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
+</p>
+
+<h3>AI and Data</h3>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square&logo=YOLO&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" alt="Pandas" />
+</p>
+
+<h3>Cloud and DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Vercel" />
+</p>
+
+<h3>Frontend and App</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ## Project Focus
 
