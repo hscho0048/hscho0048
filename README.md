@@ -148,7 +148,9 @@ LLM workflow integration
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Lan-Bomber Online</h3>
+      <h3>
+        <a href="https://github.com/Lan-Bomber-online">Lan-Bomber Online</a>
+      </h3>
       <p>
         Online game project split into a Rust backend and JavaScript frontend.
         Focused on real-time gameplay flow, browser client interaction, and service-oriented game architecture.
@@ -162,7 +164,9 @@ LLM workflow integration
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>VODA</h3>
+      <h3>
+        <a href="https://github.com/ZEZEONE-VODA">VODA</a>
+      </h3>
       <p>
         Vision Optical Detection, Analysis & Automation system for smart factory quality control.
         Built around dual-camera inspection, YOLO defect detection, rule-based grading, embedded control, and monitoring.
@@ -179,7 +183,9 @@ LLM workflow integration
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>hscho Portfolio</h3>
+      <h3>
+        <a href="https://github.com/hscho-Portfolio">hscho Portfolio</a>
+      </h3>
       <p>
         Personal developer portfolio project for presenting projects, technical direction, and UI identity.
         Focused on a polished frontend experience and clear project storytelling.
@@ -193,7 +199,9 @@ LLM workflow integration
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>HouseOfChoi</h3>
+      <h3>
+        <a href="https://github.com/KGU-HouseOfChoi">HouseOfChoi</a>
+      </h3>
       <p>
         Full-stack project organized across backend, frontend, and AI repositories.
         Combines Java service development, TypeScript UI implementation, and Python AI logic.
