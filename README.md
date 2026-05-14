@@ -148,53 +148,63 @@ LLM workflow integration
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Portfolio CMS Backend</h3>
+      <h3>Lan-Bomber Online</h3>
       <p>
-        FastAPI-based portfolio management backend with PostgreSQL, JWT authentication,
-        image upload, AWS deployment, and API-driven project management.
+        Online game project split into a Rust backend and JavaScript frontend.
+        Focused on real-time gameplay flow, browser client interaction, and service-oriented game architecture.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=flat-square" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/AWS-Deploy-232F3E?style=flat-square" alt="AWS" />
+        <img src="https://img.shields.io/badge/Rust-Backend-000000?style=flat-square&logo=Rust" alt="Rust backend" />
+        <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000" alt="JavaScript frontend" />
+        <a href="https://github.com/Lan-Bomber-online">
+          <img src="https://img.shields.io/badge/GitHub-Lan--Bomber--online-2563EB?style=flat-square&logo=GitHub" alt="Lan-Bomber Online GitHub" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Smart Factory AI</h3>
+      <h3>VODA</h3>
       <p>
-        Quality classification and defect detection using computer vision, rule-based judgment,
-        and production-oriented system design.
+        Vision Optical Detection, Analysis & Automation system for smart factory quality control.
+        Built around dual-camera inspection, YOLO defect detection, rule-based grading, embedded control, and monitoring.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Vision-Inspection-22C55E?style=flat-square" alt="Vision" />
-        <img src="https://img.shields.io/badge/YOLO-Detection-111827?style=flat-square" alt="YOLO" />
-        <img src="https://img.shields.io/badge/Data-Process-14B8A6?style=flat-square" alt="Data" />
+        <img src="https://img.shields.io/badge/FastAPI-YOLO-009688?style=flat-square&logo=FastAPI" alt="FastAPI YOLO" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-API-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" alt="Spring Boot API" />
+        <img src="https://img.shields.io/badge/Next.js-Dashboard-000000?style=flat-square&logo=Next.js" alt="Next.js dashboard" />
+        <a href="https://github.com/ZEZEONE-VODA">
+          <img src="https://img.shields.io/badge/GitHub-ZEZEONE--VODA-22C55E?style=flat-square&logo=GitHub" alt="ZEZEONE VODA GitHub" />
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Cloud-Native Game Backend</h3>
+      <h3>hscho Portfolio</h3>
       <p>
-        Rust Axum backend deployed on GCP Cloud Run with Cloud SQL, Artifact Registry,
-        and container-based deployment.
+        Personal developer portfolio project for presenting projects, technical direction, and UI identity.
+        Focused on a polished frontend experience and clear project storytelling.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-Axum-000000?style=flat-square" alt="Rust Axum" />
-        <img src="https://img.shields.io/badge/GCP-Cloud%20Run-4285F4?style=flat-square" alt="Cloud Run" />
-        <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square" alt="Docker" />
+        <img src="https://img.shields.io/badge/Portfolio-Frontend-38BDF8?style=flat-square" alt="Portfolio frontend" />
+        <img src="https://img.shields.io/badge/CSS-UI-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS UI" />
+        <a href="https://github.com/hscho-Portfolio">
+          <img src="https://img.shields.io/badge/GitHub-hscho--Portfolio-38BDF8?style=flat-square&logo=GitHub" alt="hscho Portfolio GitHub" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>LLM-Based Service Design</h3>
+      <h3>HouseOfChoi</h3>
       <p>
-        AI chatbot, recommendation logic, data analysis workflow, and backend integration
-        for practical service operation.
+        Full-stack project organized across backend, frontend, and AI repositories.
+        Combines Java service development, TypeScript UI implementation, and Python AI logic.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/LLM-Workflow-412991?style=flat-square" alt="LLM" />
-        <img src="https://img.shields.io/badge/API-Integration-2563EB?style=flat-square" alt="API" />
-        <img src="https://img.shields.io/badge/Service-Operation-22C55E?style=flat-square" alt="Service" />
+        <img src="https://img.shields.io/badge/Java-Backend-007396?style=flat-square&logo=OpenJDK&logoColor=white" alt="Java backend" />
+        <img src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript frontend" />
+        <img src="https://img.shields.io/badge/Python-AI-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python AI" />
+        <a href="https://github.com/KGU-HouseOfChoi">
+          <img src="https://img.shields.io/badge/GitHub-KGU--HouseOfChoi-14B8A6?style=flat-square&logo=GitHub" alt="KGU HouseOfChoi GitHub" />
+        </a>
       </p>
     </td>
   </tr>
