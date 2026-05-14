@@ -2,24 +2,39 @@
 
 # HoSung Cho
 
+```txt
+> whoami
+AI backend developer who turns model experiments into running services.
+
+> current_stack
+APIs | data pipelines | model serving | cloud deployments | smart factory AI
+```
+
 <a href="https://github.com/hscho0048">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1100&color=475569&vCenter=true&width=680&height=34&lines=AI+backend+developer+building+systems+that+ship.;APIs%2C+data+pipelines%2C+model+serving%2C+cloud+deployments.;Computer+vision+for+manufacturing+workflows." alt="Typing introduction" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=900&amp;color=22C55E&amp;vCenter=true&amp;width=740&amp;height=34&amp;lines=Building+AI+services+that+ship.;Designing+backend+systems+for+real+workflows.;Connecting+computer+vision+with+manufacturing+data." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=900&amp;color=047857&amp;vCenter=true&amp;width=740&amp;height=34&amp;lines=Building+AI+services+that+ship.;Designing+backend+systems+for+real+workflows.;Connecting+computer+vision+with+manufacturing+data." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=900&amp;color=047857&amp;vCenter=true&amp;width=740&amp;height=34&amp;lines=Building+AI+services+that+ship.;Designing+backend+systems+for+real+workflows.;Connecting+computer+vision+with+manufacturing+data." alt="Typing introduction" />
+  </picture>
 </a>
 
-`AI Backend` `Cloud Infrastructure` `Computer Vision` `Smart Factory AI`
+<br/>
 
-I build practical AI services that connect data, backend systems, model logic,
-cloud infrastructure, and domain workflows into products that can actually run.
+<img src="https://img.shields.io/badge/Focus-AI%20Backend-0F172A?style=flat-square&labelColor=22C55E&logo=OpenAI&logoColor=0F172A" alt="AI Backend" />
+<img src="https://img.shields.io/badge/Infra-Cloud%20Native-0F172A?style=flat-square&labelColor=38BDF8&logo=Docker&logoColor=0F172A" alt="Cloud Native" />
+<img src="https://img.shields.io/badge/Domain-Smart%20Factory-0F172A?style=flat-square&labelColor=F97316&logo=Databricks&logoColor=0F172A" alt="Smart Factory" />
+<img src="https://img.shields.io/badge/Mode-Implementation%20First-0F172A?style=flat-square&labelColor=A855F7&logo=GitHub&logoColor=0F172A" alt="Implementation First" />
 
 </div>
 
 ---
 
-## About
+## Runtime Profile
 
 <table>
   <tr>
     <td width="58%" valign="top">
+      <h3>About</h3>
       <p>
         I am an implementation-focused developer interested in taking AI work
         past experiments and turning it into service architecture, APIs,
@@ -32,15 +47,15 @@ cloud infrastructure, and domain workflows into products that can actually run.
       </p>
     </td>
     <td width="42%" valign="top">
-      <strong>Current Direction</strong>
-      <ul>
-        <li>AI service architecture</li>
-        <li>Backend API design</li>
-        <li>Computer vision inspection</li>
-        <li>Cloud deployment automation</li>
-        <li>Manufacturing data systems</li>
-        <li>LLM workflow integration</li>
-      </ul>
+      <h3>Current Direction</h3>
+      <pre>
+AI service architecture
+Backend API design
+Computer vision inspection
+Cloud deployment automation
+Manufacturing data systems
+LLM workflow integration
+      </pre>
     </td>
   </tr>
 </table>
@@ -50,35 +65,49 @@ cloud infrastructure, and domain workflows into products that can actually run.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>01. AI Systems</strong>
+      <h3>01 / AI Systems</h3>
       <p>Computer vision, recommendation logic, LLM services, and decision-support flows.</p>
+      <p><code>PyTorch</code> <code>YOLO</code> <code>OpenAI</code></p>
     </td>
     <td width="33%" valign="top">
-      <strong>02. Backend Engineering</strong>
+      <h3>02 / Backend Engineering</h3>
       <p>FastAPI, Spring Boot, Axum, REST APIs, authentication, and database integration.</p>
+      <p><code>FastAPI</code> <code>Spring Boot</code> <code>Rust</code></p>
     </td>
     <td width="33%" valign="top">
-      <strong>03. Cloud Infrastructure</strong>
+      <h3>03 / Cloud Infrastructure</h3>
       <p>AWS, GCP, Docker, deployment automation, object storage, and service operation.</p>
+      <p><code>AWS</code> <code>GCP</code> <code>Docker</code></p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <strong>04. Smart Factory</strong>
+      <h3>04 / Smart Factory</h3>
       <p>Quality inspection, defect detection, production data, and process improvement.</p>
+      <p><code>inspection</code> <code>grading</code> <code>monitoring</code></p>
     </td>
     <td width="33%" valign="top">
-      <strong>05. Data Pipeline</strong>
+      <h3>05 / Data Pipeline</h3>
       <p>Collection, preprocessing, analysis, visualization, model serving, and operation.</p>
+      <p><code>Pandas</code> <code>SQL</code> <code>serving</code></p>
     </td>
     <td width="33%" valign="top">
-      <strong>06. Domain Fusion</strong>
+      <h3>06 / Domain Fusion</h3>
       <p>Semiconductor, battery, display, manufacturing, and applied AI transformation.</p>
+      <p><code>materials</code> <code>process</code> <code>automation</code></p>
     </td>
   </tr>
 </table>
 
 ## Tech Stack
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript,fastapi,spring,nodejs,react,flutter,docker,aws,gcp,postgres,githubactions&amp;perline=8&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript,fastapi,spring,nodejs,react,flutter,docker,aws,gcp,postgres,githubactions&amp;perline=8&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,java,rust,javascript,typescript,fastapi,spring,nodejs,react,flutter,docker,aws,gcp,postgres,githubactions&amp;perline=8&amp;theme=light" alt="Tech stack icons" />
+  </picture>
+</p>
 
 | Layer | Tools |
 | --- | --- |
@@ -100,7 +129,10 @@ cloud infrastructure, and domain workflows into products that can actually run.
         Focused on real-time gameplay flow, browser client interaction, and
         service-oriented game architecture.
       </p>
-      <p><code>Rust backend</code> <code>JavaScript frontend</code> <code>real-time flow</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-backend-0F172A?style=flat-square&logo=Rust" alt="Rust backend" />
+        <img src="https://img.shields.io/badge/JavaScript-frontend-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000" alt="JavaScript frontend" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ZEZEONE-VODA">VODA</a></h3>
@@ -109,7 +141,11 @@ cloud infrastructure, and domain workflows into products that can actually run.
         quality control. Built around dual-camera inspection, YOLO defect detection,
         rule-based grading, embedded control, and monitoring.
       </p>
-      <p><code>FastAPI</code> <code>YOLO</code> <code>Spring Boot</code> <code>Next.js</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-YOLO-009688?style=flat-square&logo=FastAPI" alt="FastAPI YOLO" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-API-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" alt="Spring Boot API" />
+        <img src="https://img.shields.io/badge/Next.js-dashboard-000000?style=flat-square&logo=Next.js" alt="Next.js dashboard" />
+      </p>
     </td>
   </tr>
   <tr>
@@ -119,7 +155,10 @@ cloud infrastructure, and domain workflows into products that can actually run.
         Personal developer portfolio project for presenting projects, technical
         direction, and UI identity through a polished frontend experience.
       </p>
-      <p><code>Frontend</code> <code>UI identity</code> <code>project storytelling</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Portfolio-frontend-38BDF8?style=flat-square" alt="Portfolio frontend" />
+        <img src="https://img.shields.io/badge/UI-identity-A855F7?style=flat-square" alt="UI identity" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KGU-HouseOfChoi">HouseOfChoi</a></h3>
@@ -128,21 +167,43 @@ cloud infrastructure, and domain workflows into products that can actually run.
         Combines Java service development, TypeScript UI implementation, and Python
         AI logic.
       </p>
-      <p><code>Java</code> <code>TypeScript</code> <code>Python AI</code> <code>full stack</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-backend-007396?style=flat-square&logo=OpenJDK&logoColor=white" alt="Java backend" />
+        <img src="https://img.shields.io/badge/TypeScript-frontend-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript frontend" />
+        <img src="https://img.shields.io/badge/Python-AI-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python AI" />
+      </p>
     </td>
   </tr>
 </table>
 
 ## GitHub Signal
 
-<img width="760" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hscho0048&theme=github" alt="GitHub profile summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hscho0048&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hscho0048&amp;theme=github" />
+  <img width="760" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hscho0048&amp;theme=github" alt="GitHub profile summary" />
+</picture>
 
 <br/>
 
-<img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hscho0048&theme=github" alt="Repositories per language" />
-<img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hscho0048&theme=github" alt="GitHub stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hscho0048&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hscho0048&amp;theme=github" />
+  <img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hscho0048&amp;theme=github" alt="Repositories per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hscho0048&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hscho0048&amp;theme=github" />
+  <img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hscho0048&amp;theme=github" alt="GitHub stats" />
+</picture>
 
 ## Current Interest
 
-AI backend architecture, cloud deployment, manufacturing AI, computer vision
-inspection, LLM-based workflow automation, and industrial data systems.
+```txt
+AI backend architecture
+cloud deployment
+manufacturing AI
+computer vision inspection
+LLM-based workflow automation
+industrial data systems
+```
